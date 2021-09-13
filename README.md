@@ -10,7 +10,9 @@ Realizar operaciones aritméticas con números complejos, tanto en su forma pola
 Objetivos Especificos
 
 •	Utilizar las herramientas de los números complejos para interpretar correctamente a los fasores
+
 •	Analizar la relación que existe entre la forma polar y rectangular de un numero complejo para su correcta conversión.
+
 •	Emplear correctamente las operaciones de suma, multiplicación y división en números complejos tomando en cuenta sus propiedades.
 
 
