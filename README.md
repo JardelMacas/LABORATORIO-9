@@ -88,9 +88,9 @@ Comparando ambas magnitudes Tenemos ciertos porcentajes de error los cuales son 
 
 **5.VIDEO**
 
-Link del Video: https://www.youtube.com/watch?v=6R5i53Ai34c
+Link del Video: https://youtu.be/2xS8QW6DjjU
 
-.[![Circuitos Eléctricos || Guía de Laboratorio 8|| Características de la Onda Senoidal](https://img.youtube.com/vi/6R5i53Ai34c/0.jpg)](https://youtu.be/6R5i53Ai34c)
+.[![Circuitos Eléctricos || Guía de Laboratorio 9|| FASORES](https://img.youtube.com/vi/2xS8QW6DjjU/0.jpg)](https://youtu.be/2xS8QW6DjjU)
 
 
 
